@@ -2,25 +2,34 @@
 
 A game made as part of the [Ubisoft Game Challenge "GaCha" 2018](http://gacha.fr/).
 
+Made with Unity 2017.
+
 ## Credits
 
 ### Game Designers
 
 Tommy "Psaror" MONDUCCI
+
 Jean CLAISSE
+
 Julien BRASSEUR
 
 ### Artists
 
 Romain "Rhum" NAVAZO
+
 Jordan ROUS
+
 Victor JOSEPH
 
 ### Programmers
 
 Hugo BOMBAIL
+
 Ethan MARGAILLAN
+
 Nicolas VIENAT
+
 Guillaume BERGIGNAT
 
 ### Sound Designer
