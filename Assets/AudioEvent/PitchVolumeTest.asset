@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cf35d8fc3f884871bba8933d5b9d6cd, type: 3}
+  m_Name: PitchVolumeTest
+  m_EditorClassIdentifier: 
+  loop: 0
+  clips:
+  - {fileID: 8300000, guid: e2b29a11d2b3b4b4785a0e050d04313f, type: 3}
+  volume:
+    minValue: 0.56859833
+    maxValue: 0.8501743
+  pitch:
+    minValue: 1.0196986
+    maxValue: 1.4438008
