@@ -8,34 +8,27 @@ Made with Unity 2017.
 
 ### Game Designers
 
-Tommy "Psaror" MONDUCCI
-
-Jean CLAISSE
-
-Julien BRASSEUR
+- Tommy "Psaror" MONDUCCI
+- Jean CLAISSE
+- Julien BRASSEUR
 
 ### Artists
 
-Romain "Rhum" NAVAZO
-
-Jordan ROUS
-
-Victor JOSEPH
+- Romain "Rhum" NAVAZO
+- Jordan ROUS
+- Victor JOSEPH
 
 ### Programmers
 
-Hugo BOMBAIL
-
-Ethan MARGAILLAN
-
-Nicolas VIENAT
-
-Guillaume BERGIGNAT
+- Hugo BOMBAIL
+- Ethan MARGAILLAN
+- Nicolas VIENAT
+- Guillaume BERGIGNAT
 
 ### Sound Designer
 
-Benoit DI PAOLO
+- Benoit DI PAOLO
 
 ## External Libraries
 
-[JoyconLib](https://github.com/Looking-Glass/JoyconLib) (MIT License)
+- [JoyconLib](https://github.com/Looking-Glass/JoyconLib) (MIT License)
